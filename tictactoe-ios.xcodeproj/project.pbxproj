@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B69430C235B165800F59875 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B69430B235B165800F59875 /* logo.png */; };
 		0B9B6F85234B17C600C489D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9B6F84234B17C600C489D6 /* AppDelegate.swift */; };
 		0B9B6F87234B17C600C489D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9B6F86234B17C600C489D6 /* SceneDelegate.swift */; };
 		0B9B6F89234B17C600C489D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9B6F88234B17C600C489D6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B69430B235B165800F59875 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		0B9B6F81234B17C600C489D6 /* tictactoe-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tictactoe-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B9B6F84234B17C600C489D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B9B6F86234B17C600C489D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0B9B6F8D234B17C700C489D6 /* Assets.xcassets */,
 				0B9B6F8F234B17C700C489D6 /* LaunchScreen.storyboard */,
 				0B9B6F92234B17C700C489D6 /* Info.plist */,
+				0B69430B235B165800F59875 /* logo.png */,
 			);
 			path = "tictactoe-ios";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B69430C235B165800F59875 /* logo.png in Resources */,
 				0B9B6F91234B17C700C489D6 /* LaunchScreen.storyboard in Resources */,
 				0B9B6F8E234B17C700C489D6 /* Assets.xcassets in Resources */,
 				0B9B6F8C234B17C600C489D6 /* Main.storyboard in Resources */,
